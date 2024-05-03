@@ -3,7 +3,7 @@ Triple Ten - Data Science Bootcamp - Software Development Tools Sprint 4 Project
 
 Initialize with a virtual environment:
 
-with venv: `python -m venv venv` (use `pyenv global 3.*` to use a specific python version)
+with venv: `python -m venv venv` (use `pyenv global 3.*` to use a specific python version) - I used python 3.11.8
 
 with conda: `conda create --prefix ./venv` (use `conda create --prefix ./venv python=3.*` to use a specific python version)
 

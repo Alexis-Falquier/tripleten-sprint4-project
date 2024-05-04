@@ -3,6 +3,8 @@ Triple Ten - Data Science Bootcamp - Software Development Tools Sprint 4 Project
 
 App is published on Render on the following URL:
 
+<https://vehicle-odometer-eda-tripleten-sprint-4.onrender.com>
+
 For the stremlit app I decided to use the vehicle data and make a basic EDA overview of the odometer reading data. We will see how the odometer reading compares to other data through scatter plots, histograms of what the most frequent odometer readings were, and bar charts looking at the average odometer readings for certain car types/colors etc.
 
 Setting up the app on your local machine:

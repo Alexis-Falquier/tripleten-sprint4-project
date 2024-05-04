@@ -102,7 +102,7 @@ fig.update_layout(xaxis_title='odometer reading',yaxis_title='frequency')
 st.write(fig)
 
 
-st.header("last one")
+st.header("Bar chart looking at the average odometer reading per different categories of the vehicles")
 
 comparison_list_2 = [
     'condition',

@@ -17,8 +17,8 @@ df_vehicles = df_vehicles[cols]
 
 st.title('A brief analysis of vehicle odometer readings')
 st.text('''Below you will find a few different graphs and charts to play with 
-comparing the odometer readings of cars against other car metrics. 
-The data pertains to used cars sold in the US.''')
+comparing the odometer readings of vehicles against other vehicle metrics. 
+The data pertains to used vehicles sold in the US.''')
 
 
 st.header('Compare odometer reading and price of a vehicle sold by vehicle make')
